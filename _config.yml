@@ -8,8 +8,8 @@ language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # ==================== 网址（部署后修改为你的域名） ====================
-url: https://anduinmas.github.io
-root: /
+url: https://anduinmas.github.io/Anduinmas.github-io
+root: /Anduinmas.github-io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -100,5 +100,5 @@ pwa:
 # ==================== 部署（稍后填入你的 GitHub 用户名） ====================
 deploy:
   type: git
-  repo: https://github.com/Anduinmas/Anduinmas.github.io.git
+  repo: https://github.com/Anduinmas/Anduinmas.github-io.git
   branch: main
