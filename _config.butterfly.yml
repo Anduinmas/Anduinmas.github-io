@@ -1,0 +1,211 @@
+# ==================== 导航栏 ====================
+nav:
+  logo:
+  display_title: true
+  fixed: false
+
+menu:
+  首页: / || fas fa-home
+  归档: /archives/ || fas fa-archive
+  分类: /categories/ || fas fa-folder-open
+  标签: /tags/ || fas fa-tags
+  关于: /about/ || fas fa-heart
+  留言板: /message/ || fas fa-comment-dots
+  友链: /links/ || fas fa-link
+
+# ==================== 文艺清新配色 ====================
+# 主色调：鼠尾草绿 + 奶油白
+theme_color:
+  enable: true
+  main: '#7D9D7E'
+  paginator: '#B5C5B5'
+  button_hover: '#5C7A5D'
+  text_selection: '#A3C1A3'
+
+# ==================== 代码块 ====================
+code_blocks:
+  theme: light
+  macStyle: true
+  height_limit: false
+  word_wrap: false
+  copy: true
+  language: true
+  shrink: false
+  fullpage: false
+
+# ==================== 顶部大图 ====================
+index_top_img_height: 400px
+archive_top_img_height: 300px
+category_top_img_height: 300px
+tag_top_img_height: 300px
+
+# 默认顶部图（Unsplash 文艺自然风）
+default_top_img: https://source.unsplash.com/random/1920x1080/?nature,minimal
+
+# ==================== 头像 ====================
+avatar:
+  img: https://source.unsplash.com/random/200x200/?plant  # 后续替换为你的头像
+  effect: true
+
+# ==================== 社交链接 ====================
+social:
+  fas fa-envelope: mailto:your-email@example.com || Email || '#7D9D7E'
+  fab fa-github: https://github.com/Anduinmas || GitHub || '#24292e'
+
+# ==================== 文章元信息 ====================
+post_meta:
+  page:
+    date_type: created
+    date_format: date
+    categories: true
+    tags: true
+  post:
+    date_type: both
+    date_format: date
+    categories: true
+    tags: true
+
+# ==================== 文章版权 ====================
+post_copyright:
+  enable: true
+  decode: false
+  author_href: /
+  license: CC BY-NC-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+# ==================== 文章赞赏 ====================
+reward:
+  enable: false
+  text: 如果文章对你有帮助，可以请我喝杯咖啡~
+  QR_code: []
+
+# ==================== 站内搜索 ====================
+local_search:
+  enable: true
+  preload: false
+  top_n_per_article: 1
+  unescape: false
+  CDN:
+
+# ==================== 评论系统（Twikoo - 免费） ====================
+comments:
+  use: Twikoo
+  text: true
+  lazyload: true
+  count: true
+
+twikoo:
+  envId: https://your-twikoo.netlify.app  # 部署 Twikoo 后替换
+  region: ap-shanghai
+  visitor: true
+  option:
+
+# ==================== 访问统计（不蒜子 - 免费） ====================
+busuanzi:
+  site_uv: true
+  site_pv: true
+  page_pv: true
+
+# ==================== 暗黑模式 ====================
+darkmode:
+  enable: true
+  button: true
+  autoChangeMode: 1
+  start: 18
+  end: 6
+  background: '#1a1a2e'
+
+# ==================== 右侧小挂件 ====================
+rightside:
+  readmode: true
+  darkmode: true
+  fontsize: true
+  toc: true
+
+# ==================== 页脚 ====================
+footer:
+  owner:
+    enable: true
+    since: 2026
+  custom_text: '在浮躁的世界里，安静地写点东西 🌿'
+  copyright: true
+
+# ==================== 字数统计 & 阅读时长 ====================
+wordcount:
+  enable: true
+  post_wordcount: true
+  min2read: true
+
+# ==================== 文章过期提醒 ====================
+noticeOutdate:
+  enable: true
+  style: flat
+  limit_day: 365
+  position: top
+  message_prev: 本文最后更新于
+  message_next: 天前，内容可能已过时，请谨慎参考。
+
+# ==================== 相关文章推荐 ====================
+related_post:
+  enable: true
+  limit: 6
+  date_type: created
+
+# ==================== 图片懒加载 ====================
+lazyload:
+  enable: true
+  field: post
+  placeholder: /images/loading.svg
+  blur: true
+
+# ==================== 数学公式 ====================
+math:
+  enable: false
+
+# ==================== 分享 ====================
+sharejs:
+  enable: true
+  sites: wechat,weibo,qq
+
+# ==================== 首页文章卡片风格（文艺清新） ====================
+index_post_list:
+  direction: column
+  column: 1
+  content_radius: 12
+  avatar: true
+  cover: true
+  readmore: true
+
+# ==================== 标签页样式 ====================
+tag_cloud:
+  min: 14
+  max: 38
+  start: '#B5C5B5'
+  end: '#5C7A5D'
+  amount: 200
+
+# ==================== 分类页 ====================
+category_ui:
+  list: true
+
+# ==================== 预加载动画 ====================
+preloader:
+  enable: true
+  source: 1
+
+# ==================== 中文字体优化 ====================
+font:
+  global-font-size: 16px
+  code-font-size: 14px
+  font-family: "-apple-system, 'Noto Serif SC', 'PingFang SC', 'Microsoft YaHei', sans-serif"
+  code-font-family: "'Fira Code', 'Cascadia Code', Consolas, monospace"
+
+# ==================== 背景设置 ====================
+background: "#FAFAF5"
+
+# 禁用不必要的特效，保持文艺简洁风
+canvas_ribbon:
+  enable: false
+
+canvas_nest:
+  enable: false
