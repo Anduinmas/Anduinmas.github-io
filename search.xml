@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Git 常用命令速查手册</title>
+    <url>/2026/07/12/2026-07-12-Git%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8C/</url>
+    <content><![CDATA[<span id="more"></span>
+
+<blockquote>
+<p>📝 本文为草稿状态，待补充正文内容。</p>
+</blockquote>
+<h2 id="大纲"><a href="#大纲" class="headerlink" title="大纲"></a>大纲</h2><!-- 在这里写大纲 -->
+
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><!-- 在这里写正文 -->
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>Git</tag>
+        <tag>效率</tag>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《认知觉醒》读书笔记</title>
+    <url>/2026/07/13/2026-07-13-%E3%80%8A%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<span id="more"></span>
+
+<blockquote>
+<p>📝 本文为草稿状态，待补充正文内容。</p>
+</blockquote>
+<h2 id="大纲"><a href="#大纲" class="headerlink" title="大纲"></a>大纲</h2><!-- 在这里写大纲 -->
+
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><!-- 在这里写正文 -->
+]]></content>
+      <categories>
+        <category>读书</category>
+      </categories>
+      <tags>
+        <tag>读书笔记</tag>
+        <tag>认知</tag>
+        <tag>成长</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>你好，世界！我的博客上线啦</title>
+    <url>/2026/07/12/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E4%B8%8A%E7%BA%BF%E5%95%A6/</url>
+    <content><![CDATA[<span id="more"></span>
+
+<blockquote>
+<p>📝 写在前面：花了几个晚上，终于把属于自己的一隅小天地搭建好了。想在这里记录一些东西——技术的、生活的、读书的、瞎想的。写下来，才算真正拥有过。</p>
+</blockquote>
+<h2 id="为什么要写博客？"><a href="#为什么要写博客？" class="headerlink" title="为什么要写博客？"></a>为什么要写博客？</h2><p>这个问题我问过自己很多次。</p>
+<p>市面上有掘金、知乎、微信公众号，似乎不缺一个发声的地方。但每次想在那些平台写点什么，总有一股无形的不自在——<strong>排版要迎合流量、标题要追求点击、内容要追逐热点</strong>。</p>
+<p>我只想安安静静地写点东西。</p>
+<p>所以有了「<strong>一隅小记</strong>」。一个完全属于我的角落。不用考虑 SEO 标题怎么写，不用纠结封面图吸不吸引人。写技术就写技术，写生活就写生活，写得长就长，短就短。</p>
+<h2 id="怎么搭起来的？"><a href="#怎么搭起来的？" class="headerlink" title="怎么搭起来的？"></a>怎么搭起来的？</h2><p>对于一个只会简单前端的人来说，搭博客其实比想象中简单。</p>
+<div class="note info flat"><p><strong>技术栈</strong>：Hexo + Butterfly 主题 + GitHub Pages，<strong>完全免费</strong>。</p>
+</div>
+
+<p>流程大概是这样的：</p>
+<ol>
+<li>装好 Node.js 和 Git（这两个是基础）</li>
+<li>用 <code>hexo init</code> 初始化项目</li>
+<li>选一个好看的主题——Butterfly，一眼就爱上了它的文艺气质</li>
+<li>配置一堆功能：搜索、暗黑模式、RSS、评论、访问统计</li>
+<li>部署到 GitHub Pages，绑定域名</li>
+<li>开始写第一篇文章</li>
+</ol>
+<p>全程花了大概一个下午。最花时间的不是技术，而是<strong>想好自己到底要写什么</strong>。</p>
+<h2 id="打算写什么？"><a href="#打算写什么？" class="headerlink" title="打算写什么？"></a>打算写什么？</h2><p>我给自己划了四个方向：</p>
+<table>
+<thead>
+<tr>
+<th>方向</th>
+<th>内容</th>
+<th>频率</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>💻 <strong>技术踩坑</strong></td>
+<td>工作中学到的、踩过的坑</td>
+<td>有空就写</td>
+</tr>
+<tr>
+<td>📚 <strong>读书笔记</strong></td>
+<td>读完一本书，写一篇笔记</td>
+<td>随缘</td>
+</tr>
+<tr>
+<td>☕ <strong>生活随笔</strong></td>
+<td>日常的温馨瞬间</td>
+<td>有感就记</td>
+</tr>
+<tr>
+<td>📝 <strong>职场复盘</strong></td>
+<td>定期停下来看看</td>
+<td>季度更新</td>
+</tr>
+</tbody></table>
+<p>不设硬性目标——<strong>灵感来了就写，忙了就停下</strong>。博客应该是生活的一部分，不是生活的负担。</p>
+<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><div class="note success flat"><p>这个博客的代码完全开源在 GitHub 上。如果你想搭一个类似的，随时可以参考。</p>
+</div>
+
+<blockquote>
+<p><em>“写作不是为了让别人看到你，而是让自己看到自己。”</em></p>
+</blockquote>
+<p>谢谢你看到这里。</p>
+<p>如果你也有一片自己的小天地，欢迎在评论区分享链接 🌿</p>
+<hr>
+<p>📮 <strong>订阅提醒</strong>：不想错过更新？<a href="/atom.xml">点这里订阅 RSS</a></p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>打工人的周末散步路线</title>
+    <url>/2026/07/14/2026-07-14-%E6%89%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E5%91%A8%E6%9C%AB%E6%95%A3%E6%AD%A5%E8%B7%AF%E7%BA%BF/</url>
+    <content><![CDATA[<span id="more"></span>
+
+<blockquote>
+<p>📝 本文为草稿状态，待补充正文内容。</p>
+</blockquote>
+<h2 id="大纲"><a href="#大纲" class="headerlink" title="大纲"></a>大纲</h2><!-- 在这里写大纲 -->
+
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><!-- 在这里写正文 -->
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>日常</tag>
+        <tag>散步</tag>
+        <tag>治愈</tag>
+      </tags>
+  </entry>
+</search>
