@@ -23,6 +23,9 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
+skip_render:
+  - admin/config.yml
+  - admin/config.json
 
 # ==================== 文章配置 ====================
 new_post_name: :title.md
