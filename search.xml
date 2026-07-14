@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>打工人的周末散步路线</title>
-    <url>/2026/07/14/2026-07-14-%E6%89%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E5%91%A8%E6%9C%AB%E6%95%A3%E6%AD%A5%E8%B7%AF%E7%BA%BF/</url>
+    <title>Git 常用命令速查手册</title>
+    <url>/2026/07/12/2026-07-12-Git%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8C/</url>
     <content><![CDATA[<span id="more"></span>
 
 <blockquote>
@@ -13,12 +13,12 @@
 <h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><!-- 在这里写正文 -->
 ]]></content>
       <categories>
-        <category>生活</category>
+        <category>技术</category>
       </categories>
       <tags>
-        <tag>日常</tag>
-        <tag>散步</tag>
-        <tag>治愈</tag>
+        <tag>Git</tag>
+        <tag>效率</tag>
+        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -119,8 +119,8 @@
       </tags>
   </entry>
   <entry>
-    <title>Git 常用命令速查手册</title>
-    <url>/2026/07/12/2026-07-12-Git%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8C/</url>
+    <title>打工人的周末散步路线</title>
+    <url>/2026/07/14/2026-07-14-%E6%89%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E5%91%A8%E6%9C%AB%E6%95%A3%E6%AD%A5%E8%B7%AF%E7%BA%BF/</url>
     <content><![CDATA[<span id="more"></span>
 
 <blockquote>
@@ -131,12 +131,12 @@
 <h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><!-- 在这里写正文 -->
 ]]></content>
       <categories>
-        <category>技术</category>
+        <category>生活</category>
       </categories>
       <tags>
-        <tag>Git</tag>
-        <tag>效率</tag>
-        <tag>教程</tag>
+        <tag>日常</tag>
+        <tag>散步</tag>
+        <tag>治愈</tag>
       </tags>
   </entry>
 </search>
