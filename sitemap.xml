@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://anduinmas.top/admin/config.json</loc>
-    
-    <lastmod>2026-07-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://anduinmas.top/admin/index.html</loc>
     
     <lastmod>2026-07-14</lastmod>
@@ -92,21 +83,21 @@
 
   
   <url>
-    <loc>https://anduinmas.top/tags/Git/</loc>
+    <loc>https://anduinmas.top/tags/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://anduinmas.top/tags/%E6%95%88%E7%8E%87/</loc>
+    <loc>https://anduinmas.top/tags/%E6%95%A3%E6%AD%A5/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://anduinmas.top/tags/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://anduinmas.top/tags/%E6%B2%BB%E6%84%88/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -148,21 +139,21 @@
   </url>
   
   <url>
-    <loc>https://anduinmas.top/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://anduinmas.top/tags/Git/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://anduinmas.top/tags/%E6%95%A3%E6%AD%A5/</loc>
+    <loc>https://anduinmas.top/tags/%E6%95%88%E7%8E%87/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://anduinmas.top/tags/%E6%B2%BB%E6%84%88/</loc>
+    <loc>https://anduinmas.top/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -171,7 +162,7 @@
 
   
   <url>
-    <loc>https://anduinmas.top/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://anduinmas.top/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -185,7 +176,7 @@
   </url>
   
   <url>
-    <loc>https://anduinmas.top/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://anduinmas.top/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
