@@ -26,6 +26,7 @@ code_dir: downloads/code
 skip_render:
   - admin/config.yml
   - admin/config.json
+  - admin/index.html
 
 # ==================== 文章配置 ====================
 new_post_name: :title.md
