@@ -95,7 +95,7 @@ comments:
   count: true
 
 twikoo:
-  envId: https://your-twikoo.netlify.app  # 部署 Twikoo 后替换
+  envId:   # 部署 Twikoo 后填入地址
   region: ap-shanghai
   visitor: true
   option:
