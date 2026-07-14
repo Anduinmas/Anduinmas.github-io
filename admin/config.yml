@@ -3,6 +3,7 @@ backend:
   repo: Anduinmas/Anduinmas.github-io
   branch: source
   base_url: https://anduinmas-github-io-yi9u.vercel.app
+  auth_endpoint: api/auth
   squash_merges: true
 
 media_folder: "source/images"
